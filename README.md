@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thom
 - 👀 I’m interested in Machine Learning, Cloud and Open Source
-- 🌱 I’m currently learning Deep Learning, AI for Trading and Cloud DevOps using Azure
+- 🌱 I’m currently learning Deep Learning
 
 <!---
 thom/thom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
